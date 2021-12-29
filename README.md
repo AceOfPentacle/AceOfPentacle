@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AceOfPentacle
+- 👋 Hello
 - 👀 I’m interested in game art, programiring, designe, monetization,...all about game
 - 🌱 I’m currently learning ... Unity, C#, Illustrator, Photoshop, Animation, Coding
 - 💞️ I’m looking to collaborate on ... 
