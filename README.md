@@ -1,6 +1,6 @@
 - 👋 Hello
-- 👀 I’m interested in game art, programiring, designe, monetization,...all about game
-- 🌱 I’m currently learning ... Unity, C#, Illustrator, Photoshop, Animation, Coding
+- 👀 I’m interested about art, vector art and tracking
+- 🌱 I’m currently learning ... Illustrator and Photoshop
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... my insta @aquamoon_7
 
